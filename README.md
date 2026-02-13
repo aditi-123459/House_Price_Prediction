@@ -12,10 +12,10 @@ The goal is to understand how housing characteristics influence price and evalua
 The dataset contains housing-related features used to predict house prices.
 
 ### Total Records:
-(Add your dataset row count here)
+545
 
 ### Total Features:
-(Add your total column count here)
+13
 
 ### Features Used:
 - Area
